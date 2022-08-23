@@ -1,0 +1,133 @@
+.nav{
+
+    padding: 30px 0px 0px 0px;
+    color: white;
+}
+
+header{
+
+    background-color: rgb(132, 139, 0);
+    height: 100px;
+}
+.headline {
+
+    width: 100px;
+    height: 100px;
+
+    padding: -3px 0 0 0;
+}
+
+.button:hover {
+    background-color: #0cd83b;
+    color: rgba(44, 16, 223, 0.327);
+}
+
+.hover:hover{
+
+    background-color: #0cd83b;
+    color: aliceblue;
+}
+
+.notice{
+
+    background-color: dodgerblue;
+    padding: 20px 5px 06px 20px;
+    border: #0cd83b;
+    width: 87px;
+    height: 60px;
+}
+
+.row {
+    --bs-gutter-x: 0rem;
+    --bs-gutter-y: 0;
+}
+.inset {
+    border-style: inset;
+    
+}
+.fixed{
+
+    position: fixed;
+}
+
+.notice2{
+
+    padding: 0px 0px -70px 0px;
+}
+.bord{
+    border-radius: 10px;
+    border-style: solid;
+  border-color: hsl(156, 81%, 46%);
+
+}
+.dateicon{
+
+        background-color: #9c0734;
+        box-shadow: 0 1px 0 #9c0734, 0 2px 0 #fff, 0 3px 0 #9c0734, 0 4px 0 #fff, 0 5px 0 #9c0734, 0 0 0 1px #fff;
+        color: #fff !important;
+        border-radius: 5px;
+
+        width:80px;
+        height: 80px;
+    
+
+}
+.bord1{
+    border-style: ridge;
+    height: 91px;
+
+
+}
+
+.hov:hover{
+
+    background-color: darkcyan;
+}
+
+.bord5{
+
+    border-style: outset;
+}
+
+.bord2{
+
+    border-style: ridge;
+
+}
+.gallery{
+
+   
+    border: 1px solid #ccc;
+   
+    
+}
+
+.gallery1{
+
+    border: 1px solid #ccc;
+
+    border-radius: 10px;
+}
+
+.desc{
+
+    border: 2px solid rgb(13, 228, 200);
+
+    border-radius: 10px;
+
+
+}
+.border05{
+
+    border-radius: 10px;
+    border-style: solid;
+  border-color: hsl(157, 27%, 88%);
+
+
+}
+
+.hov:hover{
+
+   color: aqua;
+   background-color: rgba(0, 0, 0, 0.525);
+}
